@@ -1,0 +1,2 @@
+creating a new text file from scratch
+not editing pre-existing text file
